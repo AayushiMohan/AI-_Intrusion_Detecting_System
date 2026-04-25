@@ -33,6 +33,7 @@ The results demonstrated improved detection performance and reduced false positi
 5) How to Run
 
 Install dependencies:
+
 pip install tensorflow numpy pandas matplotlib streamlit
 
 6) Run the app:
