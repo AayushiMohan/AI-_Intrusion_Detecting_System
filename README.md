@@ -1,8 +1,7 @@
 # Intrusion Detection System using LSTM
 
 1) Overview:
-
-This project is an AI-based Intrusion Detection Systemthat uses an LSTM (Long Short-Term Memory)
+This project is an AI-based Intrusion Detection System that uses an LSTM (Long Short-Term Memory)
 neural network to detect malicious network traffic.
 
 ## Research Background
