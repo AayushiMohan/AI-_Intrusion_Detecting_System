@@ -17,20 +17,20 @@ The results demonstrated improved detection performance and reduced false positi
 - Trained on NSL-KDD dataset
 - Visualizes accuracy and loss
 
-3) Technologies Used:
+3) Technologies used:
 - TensorFlow / Keras
 - NumPy
 - Pandas
 - Matplotlib
 - Streamlit
 
-4) Project Structure:
+4) Project structure:
 - AI_Intrusion_Detection_System.ipynb → Model training
 - app.py → Streamlit web app
 - ids_model.keras → Saved model
 - IDS_requirements.pdf → Installation guide
 
-5) How to Run:
+5) How to run:
 Install dependencies-
 pip install tensorflow numpy pandas matplotlib streamlit
 
