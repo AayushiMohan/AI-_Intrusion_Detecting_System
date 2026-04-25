@@ -1,4 +1,4 @@
-# Intrusion Detection System using LSTM
+# AI DRIVEN INTRUSION DETECTION SYSTEMS USING DEEP LEARNING
 
 1) Overview:
 This project is an AI-based Intrusion Detection System that uses an LSTM (Long Short-Term Memory)
