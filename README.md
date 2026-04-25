@@ -4,6 +4,13 @@
 This project is an AI-based Intrusion Detection Systemthat uses an LSTM (Long Short-Term Memory)
 neural network to detect malicious network traffic.
 
+## Research Background
+This project was developed as part of a research study focused on improving intrusion detection systems using deep learning techniques. Traditional IDS models often suffer from high false positive rates and struggle to detect modern attack patterns. 
+
+To address this, an LSTM-based deep learning model was designed to analyze sequential network traffic data and identify anomalies more effectively. The model was trained and evaluated on the NSL-KDD dataset using metrics such as accuracy, precision, recall, and F1-score.
+
+The results demonstrated improved detection performance and reduced false positives compared to traditional machine learning approaches.
+
 2) Features
 - Detects normal vs attack traffic
 - Uses deep learning (LSTM)
