@@ -15,6 +15,21 @@ To address this, an LSTM-based deep learning model was designed to analyze seque
 
 The results demonstrated improved detection performance and reduced false positives compared to traditional machine learning approaches.
 
+## 📄 Research Publication
+
+This project is based on an accepted research paper:
+
+**Paper Title:** AI Driven Intrusion Detection Systems Using Deep Learning
+
+**Authors:** Anmol Sarin, Aayushi Mohan, Adarsh Rai, Dr. Neha Ahlawat
+
+**Journal:** International Journal of All Research Education & Scientific Methods (IJARESM)
+
+**ISSN:** 2455-6211 | **Impact Factor:** 9.175
+
+**Volume:** 14, Issue 4, April 2026
+
+**Status:** ✅ Accepted
 2) Features:
 - Detects normal vs attack traffic
 - Uses deep learning (LSTM)
