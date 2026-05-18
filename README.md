@@ -29,7 +29,7 @@ This project is based on an accepted research paper:
 
 **Volume:** 14, Issue 4, April 2026
 
-**Status:** ✅ Accepted
+**Status:** ✅ Accepted <br>
 2) Features:
 - Detects normal vs attack traffic
 - Uses deep learning (LSTM)
